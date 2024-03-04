@@ -6,6 +6,7 @@ import Events from "./Pages/Events.jsx";
 import Register from "./Pages/Register.jsx";
 import Profile from "./Pages/Profile.jsx";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import Community from "./Pages/Community.jsx";
 
 const App = () => {
   return (
@@ -20,6 +21,7 @@ const App = () => {
           <Route path="/events" element={<Events />} />
           <Route path="/register" element={<Register />} />
           <Route path="/profile" element={<Profile />} />
+          <Route path="/community" element={< Community/>} />
         </Routes>
       </Router>
     </div>

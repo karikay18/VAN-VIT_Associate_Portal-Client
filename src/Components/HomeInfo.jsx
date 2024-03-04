@@ -9,12 +9,12 @@ const HomeInfo = () => {
           className="h-96 w-96 max-md:h-40 max-md:w-40 rounded-full mx-auto shadow-lg"
         />
         <h2 className="text-lg text-gray-900 font-semibold tracking-wider">
-          Director, Lorem Ipsum
+          Director, Dr. G Viswanathan
         </h2>
       </div>
       <div className="w-[50%] h-[80%] max-md:w-full max-md:h-[60%] flex justify-center items-center bg-gray-100 rounded-xl shadow-xl">
         <p className="w-[80%] h-[80%] max-md:text-sm flex justify-center items-center text-xl font-semibold leading-relaxed tracking-wider text-gray-900">
-          Dr. G. Vishawanathan , director Vellore Institute of Technology is the backbone of our university. 
+          Dr. G. Viswanathan , director Vellore Institute of Technology is the backbone of our university. 
         </p>
       </div>
     </div>

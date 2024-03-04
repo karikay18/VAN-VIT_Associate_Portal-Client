@@ -20,7 +20,7 @@ const Navbar = () => {
           >
             <img src={College} className="h-16 mr-9"  alt="Flowbite Logo" />
             <span className="self-center text-lg text-gray-900 font-bold uppercase tracking-wider">
-              Alumni Portal
+              Lion Community
             </span>
           </Link>
           <div className="flex md:hidden">
@@ -84,7 +84,7 @@ const Navbar = () => {
                       : "text-gray-700"
                   }`}
                 >
-                  Alumni
+                  Lions
                 </Link>
               </li>
               <li>
@@ -97,6 +97,18 @@ const Navbar = () => {
                   }`}
                 >
                   Profile
+                </Link>
+              </li>
+              <li>
+                <Link
+                  to="/community"
+                  className={`block py-2 px-3 text-xl rounded md:bg-transparent md:p-0 ${
+                    location.pathname === "/community"
+                      ? "text-blue-700"
+                      : "text-gray-700"
+                  }`}
+                >
+                  Community
                 </Link>
               </li>
               <li>
