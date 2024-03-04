@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 
-// Sample random events at IIIT Kota
+// Sample random events at VIT Bhopal
 const iiitKotaEvents = [
   {
     name: "Workshop on Machine Learning",
@@ -45,32 +45,32 @@ const newsPieces = [
   {
     title: "Impact of Climate Change on Agriculture Explored in New Study",
     date: "February 17, 2024",
-    source: "IIIT Kota News",
+    source: "VIT Bhopal News",
   },
   {
     title: "STEM Education Receives Funding Boost from Government",
     date: "February 18, 2024",
-    source: "IIIT Kota News",
+    source: "VIT Bhopal News",
   },
   {
     title: "New Satellite Successfully Launched into Orbit by SpaceX",
     date: "February 19, 2024",
-    source: "IIIT Kota News",
+    source: "VIT Bhopal News",
   },
   {
     title: "Impact of Climate Change on Agriculture Explored in New Study",
     date: "February 17, 2024",
-    source: "IIIT Kota News",
+    source: "VIT Bhopal News",
   },
   {
     title: "STEM Education Receives Funding Boost from Government",
     date: "February 18, 2024",
-    source: "IIIT Kota News",
+    source: "VIT Bhopal News",
   },
   {
     title: "New Satellite Successfully Launched into Orbit by SpaceX",
     date: "February 19, 2024",
-    source: "IIIT Kota News",
+    source: "VIT Bhopal News",
   },
 ];
 

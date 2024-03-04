@@ -38,7 +38,7 @@ const Profile = () => {
 
       <div className="w-full h-[35rem] relative top-[6rem] mb-[10rem] flex flex-col">
         <h1 className="text-4xl max-sm:text-2xl text-center mt-8 mb-5">
-          Good {getPartOfDay()}, Aaryan Anil Kumar Singh!
+          Good {getPartOfDay()}, Gurleen!
         </h1>
         <div className="relative">
           <EditButton />
@@ -53,8 +53,7 @@ const Profile = () => {
                 Profile Information
               </h2>
               <p className="mb-3">
-                <strong>Email:</strong> 2018KUCP1036@iiitkota.ac.in
-              </p>
+                <strong>Email:</strong> gurleenkaurmakhija2022@vitbhopal.ac.in</p>
               <p className="mb-3">
                 <strong>Education:</strong> B.Tech Computer Science and
                 Engineering

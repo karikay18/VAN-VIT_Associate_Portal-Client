@@ -9,18 +9,15 @@ const HomeInfo = () => {
           className="h-96 w-96 max-md:h-40 max-md:w-40 rounded-full mx-auto shadow-lg"
         />
         <h2 className="text-lg text-gray-900 font-semibold tracking-wider">
-          Director, NK Padhy
+          Director, Lorem Ipsum
         </h2>
       </div>
       <div className="w-[50%] h-[80%] max-md:w-full max-md:h-[60%] flex justify-center items-center bg-gray-100 rounded-xl shadow-xl">
         <p className="w-[80%] h-[80%] max-md:text-sm flex justify-center items-center text-xl font-semibold leading-relaxed tracking-wider text-gray-900">
-          It brings me immense pleasure to extend a warm welcome to each of you
-          to the official IIIT Kota Alumni Network website. As the Director, I
-          am honored to witness the growth and achievements of our alumni,
-          serving as a testament to the excellence fostered within our
-          institution. I encourage you to actively engage, share insights, and
-          strengthen the bonds that unite us as proud alumni of IIIT Kota.
-          Together, let us continue to elevate our alma matters legacy.
+          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Molestias
+          unde similique quidem temporibus doloribus explicabo repellat error
+          sit culpa alias dolor pariatur iure nemo cumque delectus, eos, ipsum
+          fugiat reiciendis!
         </p>
       </div>
     </div>
