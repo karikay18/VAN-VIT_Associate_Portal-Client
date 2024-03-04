@@ -122,6 +122,7 @@ const Register = () => {
                     className="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
                     id="rollNumber"
                     type="text"
+                    pattern="[0-9]{2}[A-Z]{3}[0-9]{5}"
                     name="rollNumber"
                     placeholder="Roll Number"
                     value={details.rollNumber}
@@ -206,7 +207,7 @@ const Register = () => {
                     id="countries"
                     name="yearofAdmission"
                     className="bg-white shadow border border-gray-300 text-gray-900 text-sm rounded focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5"
-                    value={details.yearOfPassing}
+                    value={details.yearOfAdmission}
                     onChange={(e) =>
                       setDetails({
                         ...details,
@@ -292,7 +293,8 @@ const Register = () => {
                     className="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
                     id="number"
                     name="number"
-                    type="text"
+                    type="tel"
+                    pattern="[0-9]{10}"
                     placeholder="Mobile Number"
                     value={details.contactNumber}
                     onChange={(e) =>
@@ -313,7 +315,7 @@ const Register = () => {
                     className="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
                     id="linkedin"
                     name="linkedin"
-                    type="text"
+                    type="url"
                     placeholder="LinkedIn"
                     value={details.LinkedIn}
                     onChange={(e) =>
@@ -337,6 +339,7 @@ const Register = () => {
                     id="officeEmail"
                     name="officeEmail"
                     type="email"
+                    pattern=".+@vitbhopal\.ac\.in$"
                     placeholder=" Official Email Address"
                     onChange={(e) =>
                       setDetails({ ...details, collegeEmail: e.target.value })
