@@ -21,7 +21,7 @@ const Footer = () => {
                 target="_blank"
                 className="text-white hover:text-gray-300 mb-3 transition-all transform hover:translate-x-2 hover:underline"
               >
-                VIT Kota Website
+                VIT Bhopal Website
               </Link>
               <Link
                 to="#"

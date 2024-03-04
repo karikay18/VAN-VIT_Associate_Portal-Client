@@ -14,10 +14,7 @@ const HomeInfo = () => {
       </div>
       <div className="w-[50%] h-[80%] max-md:w-full max-md:h-[60%] flex justify-center items-center bg-gray-100 rounded-xl shadow-xl">
         <p className="w-[80%] h-[80%] max-md:text-sm flex justify-center items-center text-xl font-semibold leading-relaxed tracking-wider text-gray-900">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Molestias
-          unde similique quidem temporibus doloribus explicabo repellat error
-          sit culpa alias dolor pariatur iure nemo cumque delectus, eos, ipsum
-          fugiat reiciendis!
+          Dr. G. Vishawanathan , director Vellore Institute of Technology is the backbone of our university. 
         </p>
       </div>
     </div>
