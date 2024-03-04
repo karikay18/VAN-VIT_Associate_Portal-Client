@@ -18,9 +18,9 @@ const Navbar = () => {
             to="/"
             className="flex items-center space-x-3 rtl:space-x-reverse"
           >
-            <img src={College} className="h-16 mr-9"  alt="Flowbite Logo" />
+            <img src={College} className="h-16 mr--3"  alt="Flowbite Logo" />
             <span className="self-center text-lg text-gray-900 font-bold uppercase tracking-wider">
-              Lion Community
+              Associate Network
             </span>
           </Link>
           <div className="flex md:hidden">

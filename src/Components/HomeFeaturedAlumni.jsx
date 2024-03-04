@@ -21,7 +21,7 @@ const HomeFeaturedAlumni = () => {
               ipsam nostrum ratione, obcaecati explicabo provident?
             </p>
             <a
-              href="#"
+              href="https://drive.google.com/file/d/1Shr2K2ZL1asWR-oza8JPU0ls4chKIMmf/view?usp=drivesdk"
               className="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
             >
               Visit Profile
@@ -58,7 +58,7 @@ const HomeFeaturedAlumni = () => {
               pariatur, adipisci eaque commodi ipsa nisi.
             </p>
             <a
-              href="#"
+              href="https://docs.google.com/document/d/1DeE599EnuFrS-GIbQyBJ8efPef-Z56I-/edit?usp=sharing&ouid=105472859655955046631&rtpof=true&sd=true"
               className="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
             >
               Visit Profile
@@ -95,7 +95,7 @@ const HomeFeaturedAlumni = () => {
               architecto corrupti quae eos veniam rerum.
             </p>
             <a
-              href="#"
+              href="https://drive.google.com/file/d/1e7iFFCke0L5CmF4NsEwzNokELU2IakpR/view?usp=drivesdk"
               className="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
             >
               Visit Profile
