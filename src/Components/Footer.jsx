@@ -17,21 +17,21 @@ const Footer = () => {
           <div className="lg:w-1/4 md:w-1/2 w-full px-4">
             <nav className="list-none mb-10 h-full flex flex-col justify-between font-semibold text-xl">
               <Link
-                to=""
+                to="https://vitbhopal.ac.in/"
                 target="_blank"
                 className="text-white hover:text-gray-300 mb-3 transition-all transform hover:translate-x-2 hover:underline"
               >
                 VIT Bhopal Website
               </Link>
               <Link
-                to="#"
+                to="https://cdc.vit.ac.in/"
                 target="_blank"
                 className="text-white-600 hover:text-gray-300 mb-3 transition-all transform hover:translate-x-2 hover:underline"
               >
                 Training and Placement Cell
               </Link>
               <Link
-                to="#"
+                to="https://vitbhopal.ac.in/faculty/"
                 target="_blank"
                 className="text-white-600 hover:text-gray-300 mb-3 transition-all transform hover:translate-x-2 hover:underline"
               >
@@ -49,21 +49,21 @@ const Footer = () => {
           <div className="lg:w-1/4 md:w-1/2 w-full px-4">
             <nav className="list-none mb-10 h-full flex flex-col justify-between font-semibold text-xl">
               <Link
-                to="#"
+                to="https://vitbhopal.ac.in/studentwelfare/"
                 target="_blank"
                 className="text-white-600 hover:text-gray-300 mb-3 transition-all transform hover:translate-x-2 hover:underline"
               >
                 Holidays
               </Link>
               <Link
-                to="#"
+                to="https://vitbhopal.ac.in/placements-and-training/"
                 target="_blank"
                 className="text-white-600 hover:text-gray-300 mb-3 transition-all transform hover:translate-x-2 hover:underline"
               >
                 Recruitments
               </Link>
               <Link
-                to="#"
+                to="https://vitbhopal.ac.in/caltech-vit/"
                 target="_blank"
                 className="text-white-600 hover:text-gray-300 mb-3 transition-all transform hover:translate-x-2 hover:underline"
               >
